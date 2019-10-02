@@ -1,2 +1,2 @@
 # world-populations-sql-practice
-Part of Codeacademy 'Learn SQL' course
+Part of Codecademy 'Learn SQL' course
